@@ -11,7 +11,7 @@ translator = googletrans.Translator()
 
 # элементы бота
 api = 'Token'
-bot = telebot.TeleBot(api)
+bot = telebot.TeleBot('6274073534:AAEHIdudYvvE3kHw_PQqDNfBx94BeX_krxs')
 
 # парсер новинок
 url_for_new = "https://realestatemne24.com/"
