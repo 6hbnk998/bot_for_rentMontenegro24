@@ -415,4 +415,4 @@ def get_answer(message):
                          text="Збогом!\nЗа покретање напишите /start",
                              reply_markup=types.ReplyKeyboardRemove())
 
-bot.polling(none_stop=True)
+# bot.polling(none_stop=True)
