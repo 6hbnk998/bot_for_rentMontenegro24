@@ -9,8 +9,8 @@ import os
 # объект переводчика
 translator = googletrans.Translator()
 
-элементы бота
-api = ''
+# элементы бота
+# api = ''
 bot = telebot.TeleBot(api)
 
 # парсер новинок
